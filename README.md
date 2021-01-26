@@ -1,2 +1,6 @@
-# Suas-Finan-a-
-Nesse pequeno projeto, desenvolvi a parte Front-End de uma aplicação Web para organização financeira.
+# Suas-Finanças
+## Demonstração de uma aplicação Web de controle de finanças
+
+
+![demonstração](https://github.com/FerCremonez/Suas-Finan-a-/blob/main/suasfinancas.JPG)
+![demonstração 2](https://github.com/FerCremonez/Suas-Finan-a-/blob/main/suasfinancas2.JPG)
